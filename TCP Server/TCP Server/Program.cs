@@ -67,7 +67,6 @@ namespace TCP_Server
 
             writer.Flush();
             socket.Close();
-
         }
     }
 }
